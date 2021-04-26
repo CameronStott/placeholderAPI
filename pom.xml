@@ -322,7 +322,6 @@
                         <processTypes>
                             <web>java $JAVA_OPTS -cp target/classes:target/dependency/* Main</web>
                         </processTypes>
-                        <appName>Pacioli-3</appName>
                     </configuration>
                     <executions>
                         <execution>
